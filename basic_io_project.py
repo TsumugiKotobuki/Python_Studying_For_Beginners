@@ -1,0 +1,1 @@
+#In this file you should try to create a program which asks the user for a passowrd, in case the password is correct, the program is going to output something. Look at the example I made, of a progam which asks for an input, and experiment.  
