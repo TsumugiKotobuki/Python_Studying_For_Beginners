@@ -1,0 +1,1 @@
+This is a simple game where you have to input a, and if you're fast enough you're going to be on the highscore list.
